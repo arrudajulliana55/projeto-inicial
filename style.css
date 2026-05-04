@@ -1,9 +1,9 @@
-body{
-    background-color:rgb(211, 166, 253);
+#corpo{
+    background-color:rgb(253, 255, 143)
 }
 
 header{
-    background-color: rgb(163, 77, 233);
+    background-color: rgb(238, 43, 43);
 }
 
 header div img{
